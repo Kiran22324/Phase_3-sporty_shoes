@@ -1,0 +1,14 @@
+2022-07-05 21:00:31,264 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-05 21:01:39,203 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api.sportyshoes:sporty_shoes:0.0.1-SNAPSHOT @ C:\KIRAN\projectSportyShoes\sporty_shoes-master.zip_expanded\sporty_shoes-master\pom.xml.
+2022-07-05 21:01:40,514 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-05 21:01:40,517 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-05 21:01:40,531 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-05 21:01:40,533 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-05 21:01:40,533 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\KIRAN\projectSportyShoes\sporty_shoes-master.zip_expanded\sporty_shoes-master\src\test\resources
+2022-07-05 21:01:41,139 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api.sportyshoes:sporty_shoes:0.0.1-SNAPSHOT @ C:\KIRAN\projectSportyShoes\sporty_shoes-master.zip_expanded\sporty_shoes-master\pom.xml.
+2022-07-05 21:01:42,783 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-05 21:01:42,786 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-05 21:01:42,786 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-05 21:01:42,789 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-05 21:01:42,789 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\KIRAN\projectSportyShoes\sporty_shoes-master.zip_expanded\sporty_shoes-master\src\test\resources
+2022-07-05 21:04:47,370 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
